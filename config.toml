@@ -1,3 +1,50 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://www.example.com"
+title = "Junwei's Space"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Junwei Liang"
+    info = "Code Fun"
+    description = "Junwei Liang's personal website"
+    keywords = "Reflection,developer,personal"
+    avatarurl = "images/avatar.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "Enter a text here."
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/superLionnn"
+
+# Menu links
+[[menu.main]]
+    name = "Weekly Reflection"
+    weight = 1
+    url  = "/wkRef/"
+[[menu.main]]
+    name = "About"
+    weight = 2
