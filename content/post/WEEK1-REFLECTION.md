@@ -1,8 +1,8 @@
----
++++
 title: "WEEK 1 REFLECTION"
 date: 2019-02-13T09:08:48+11:00
 draft: false
----
++++
 
 ## At the beginning
 
