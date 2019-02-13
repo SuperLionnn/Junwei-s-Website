@@ -11,6 +11,8 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+pageNotFoundTitle = "404 - page no found"
+
 disqusShortname = "yourdiscussshortname"
 
 [params]
@@ -23,7 +25,7 @@ disqusShortname = "yourdiscussshortname"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = ""
 
     hidecredits = false
     hidecopyright = false
@@ -44,7 +46,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Weekly Reflection"
     weight = 1
-    url  = "/wkRef/"
+    url  = "/post/"
 [[menu.main]]
     name = "About"
     weight = 2
