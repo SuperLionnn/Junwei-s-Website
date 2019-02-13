@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Junwei&#39;s Space</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Junwei&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Feb 2019 09:08:48 +1100</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WEEK 1 REFLECTION</title>
+      <link>/post/week1-reflection/</link>
+      <pubDate>Wed, 13 Feb 2019 09:08:48 +1100</pubDate>
+      
+      <guid>/post/week1-reflection/</guid>
+      <description>At the beginning  The first week in Cyber Sec Studio let me know a new world of network which is sophisticated, sapiential, dangerous and full of unknows. Under the help with friendly mates in the studio, this would be a great chance to dive deeper in the internet, and to learn and see how cyber things work. Because cyber-attacks always happen all around the world, so that cyber security become more and more important.</description>
+    </item>
+    
+  </channel>
+</rss>
