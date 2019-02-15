@@ -36,10 +36,11 @@ Ethical hacking based on morals desire which means all of the Red Team actions a
 	href="http://www.youtube.com/watch?feature=player_embedded&v=gOUGXVFA2IQ
 	" target="_blank"><img src="http://img.youtube.com/vi/gOUGXVFA2IQ/0.jpg" 
 	alt="The Complete Ethical Hacking Tutorial - Become An Ethical Hacker Today
-	" width="240" height="180" border="10" />
+	" width="480" height="360" border="10" />
 </a>
 
 ## Resources
 
 https://www.hackerone.com/disclosure-guidelines
+<br>
 https://www.youtube.com/watch?v=gOUGXVFA2IQ
