@@ -99,8 +99,10 @@ The impact of an attack depends on the attack vector and vulnerability of the ta
 
 <p>
 	"In reality, size isn't the best reflection of how difficult attacks are to mitigate or how damaging they can be. Packets per second (PPS) is actually a better indicator.”- Tomer Shani, Security Researcher at Imperva
+
 Different vectors have different mitigation challenges.
 For High Bandwidth. greater provisioning of network bandwidth reduces the effectiveness of the attack. Not cost effective for most businesses, but this is where economy of scale comes into play. Create network bandwidth with larger capacity than largest known/observed DDoS attack.
+
 Mitigating PPS is more difficult due to the processing power required to evaluate every packet. Requires much higher capacity on routers and switches than usual. Organizations more concerned with size of attack (number of packets) rather than the PPS.
 </p>
 
@@ -120,4 +122,14 @@ Mitigating PPS is more difficult due to the processing power required to evaluat
 	I spent at least 3 hours every day on this game. It gave me so much fun especially when I capture the hidden flag for next level. The most important thing is I learnt a lot from attacking the vulnerable website. Some notes I took below.
 <p/>
 <br>
+
+### Build up a personal static website
+The website built up by hugo and it is still on progress, trying to do the custimized the theme and layout and connect to github.
+
+![pic3](/Website.png)
+
+## What to do next week?
+•	CTF and Wargames
+•	Building the static website
+•	Learning web knowledge and cryptanalysis
 
