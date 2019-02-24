@@ -1,6 +1,6 @@
 ---
 title: "WEEK 3 REFLECTION"
-date: 2019-02-22
+date: 2019-02-23 T09:08:48+11:00
 draft: false
 ---
 
@@ -10,7 +10,7 @@ Week 3 was awesome!!
 
 On Tuesday I participated SecTalks!
 
-the studio focused on "Break Into Machines", which is pretty exciting and full of challenging. It is really a huge jump from playing wargames, CTFs, and vulnernable web apps. Thanks for research about hacking tools and Piper demo practiced in the class so that I was basiclly what was going on on the VMs.
+The studio focused on "Break Into Machines", which is pretty exciting and full of challenging. It is really a huge jump from playing wargames, CTFs, and vulnernable web apps. Thanks for research about hacking tools and Piper demo practiced in the class so that I was basiclly what was going on on the VMs.
 
 On Wednesday, our team - Bare Minimum Bandits made the presentation about two tools
 One is Wireshark

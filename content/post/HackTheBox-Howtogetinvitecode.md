@@ -1,6 +1,6 @@
 ---
 title: "HackTheBox - How to get invite code"
-date: 2019-02-13T09:08:48+11:00
+date: 2019-02-20 T09:08:48+11:00
 draft: false
 ---
 
@@ -22,7 +22,6 @@ _invite_
 _storage_companies/
 Error 403: 
 Error 404: Source not found
-
 - - - -
 
 try input “”
