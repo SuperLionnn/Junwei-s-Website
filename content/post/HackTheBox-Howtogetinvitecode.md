@@ -1,6 +1,6 @@
 ---
 title: "HackTheBox - How to get invite code"
-date: 2019-02-20 T09:08:48+11:00
+date: 2019-02-20T09:08:48+11:00
 draft: false
 ---
 
