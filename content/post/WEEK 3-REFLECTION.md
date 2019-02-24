@@ -152,19 +152,19 @@ Then we need to exploit the WP server.
 - - - -
 Open msfconsole and see if there is any exploits in metasploit
 
-![Pic12](/WL3-MR-Metasploit.png.png)
+![Pic12](/WL3-MR-Metasploit.png)
 
 - - - -
 Type in ‘search wp_admin’ and find one matching module that has excellent rank, looks it will work through.
 ![Pic13](/WK3-MR-WP-admin.png)
 
-Sorry I did not get key 2 and key 3 at the moment. But I found a video that show using password brute force tools to get this virtual machine. 
+Sorry I did not get key 2 and key 3 at the moment, because the Metasploit did not work and I have no idea about it just stuck there. But I found a video that show using password brute force tools to get this virtual machine. 
 
-<a href=“[Lampiao CTF Walkthrough - Boot-To-Root - YouTube](https://www.youtube.com/watch?v=pgfYKUXGhOY)
-“ target=“_blank”><img src=“http://img.youtube.com/vi/pgfYKUXGhOY0.jpg” 
-alt=“IMAGE ALT TEXT HERE” width=“480” height=“360” border=“10” /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pgfYKUXGhOY
+" target="_blank"><img src="http://img.youtube.com/vi/pgfYKUXGhOY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="600" height="540" border="10" /></a>
 - - - -
-Reference
+### Reference
 
 Tryhackme, <https://tryhackme.com/><br>
 Ata.E & Adam.G, 2009, <http://www.informit.com/articles/article.aspx?p=1409785&seqNum=2><br>
