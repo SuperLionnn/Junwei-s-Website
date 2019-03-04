@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/week4-reflection/</loc>
+    <lastmod>2019-03-02T22:08:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/week-3-reflection/</loc>
+    <lastmod>2019-02-23T09:08:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hackthebox-howtogetinvitecode/</loc>
+    <lastmod>2019-02-20T09:08:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/week2-reflection/</loc>
+    <lastmod>2019-02-17T22:19:12+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/wk2-homework-wed/</loc>
+    <lastmod>2019-02-15T23:50:23+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/week1-reflection/</loc>
     <lastmod>2019-02-13T09:08:48+11:00</lastmod>
   </url>
@@ -14,13 +39,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-02-13T09:08:48+11:00</lastmod>
+    <lastmod>2019-03-02T22:08:48+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-02-13T09:08:48+11:00</lastmod>
+    <lastmod>2019-03-02T22:08:48+11:00</lastmod>
     <priority>0</priority>
   </url>
   

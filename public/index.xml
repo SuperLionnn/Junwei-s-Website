@@ -6,10 +6,67 @@
     <description>Recent content on Junwei&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Feb 2019 09:08:48 +1100</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2019 22:08:48 +1100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WEEK 4 REFLECTION</title>
+      <link>/post/week4-reflection/</link>
+      <pubDate>Sat, 02 Mar 2019 22:08:48 +1100</pubDate>
+      
+      <guid>/post/week4-reflection/</guid>
+      <description>WEEK 4 On Monday, Reverse Engineering and Binary Exploitation 0x00
+Ruben Reverse Engineering
+Reverse Engineering is the skill of figuring out what a black box is doing. This includes being able to figure out what a set of assembly instructions means. This doesn’t mean you have to understand every single instruction. With enough practice you’ll start recognising structures pretty quickly.</description>
+    </item>
+    
+    <item>
+      <title>WEEK 3 REFLECTION</title>
+      <link>/post/week-3-reflection/</link>
+      <pubDate>Sat, 23 Feb 2019 09:08:48 +1100</pubDate>
+      
+      <guid>/post/week-3-reflection/</guid>
+      <description>Week 3 was awesome!! On Tuesday I participated SecTalks!
+The studio focused on &amp;ldquo;Break Into Machines&amp;rdquo;, which is pretty exciting and full of challenging. It is really a huge jump from playing wargames, CTFs, and vulnernable web apps. Thanks for research about hacking tools and Piper demo practiced in the class so that I was basiclly what was going on on the VMs.
+On Wednesday, our team - Bare Minimum Bandits made the presentation about two tools One is Wireshark</description>
+    </item>
+    
+    <item>
+      <title>HackTheBox - How to get invite code</title>
+      <link>/post/hackthebox-howtogetinvitecode/</link>
+      <pubDate>Wed, 20 Feb 2019 09:08:48 +1100</pubDate>
+      
+      <guid>/post/hackthebox-howtogetinvitecode/</guid>
+      <description>HackTheBox Link https://www.hackthebox.eu/invite
+Firstly, try to find any interesting hidden folders.
+These are folders I found: image _image_png/ js css password _password_reset/ login invite _storage_companies/ Error 403: Error 404: Source not found
+try input “”
+XSRF Protection
+Then try https://www.hackthebox.eu/invite/id Code 404 error Try to find some in robots.txt but there is nothing Injection will be blocked https://www.hackthebox.eu/invite/%3CsCript%3Ealert(1);%3C/scRiPt%3E
+Look at the source code /inviteapi.min.js. file looks like the key point to get the invite code.</description>
+    </item>
+    
+    <item>
+      <title>WEEK2 REFLECTION</title>
+      <link>/post/week2-reflection/</link>
+      <pubDate>Sun, 17 Feb 2019 22:19:12 +1100</pubDate>
+      
+      <guid>/post/week2-reflection/</guid>
+      <description>Week 2 Reflection In week 2, I learnt more stuff about Web Application Security.
+On Friday, everyone did a 3-minute-presentation and many of us hadn&amp;rsquo;t mentioned the problem solution though, and I talked about SQL Injection is one way of injection attack which is regarded as the most dangerous application security risk. Because of almost any source of data can be an injection vector, environment variables, parameters, external and internal web services, and all types of users.</description>
+    </item>
+    
+    <item>
+      <title>Wk2 Homework Wed</title>
+      <link>/post/wk2-homework-wed/</link>
+      <pubDate>Fri, 15 Feb 2019 23:50:23 +1100</pubDate>
+      
+      <guid>/post/wk2-homework-wed/</guid>
+      <description>How ethical hacking and bug bounties are impacting stakeholders Stakeholder: Business company: Business companies need security experts to provide protective in digital world. Ethical hacking and bug bounties is a common need and a win-win strategy that bug bounties attract security experts to improve its cyber security.
+White hat: They obey ethical hacking and hack under the disclosure environment. They aim to build up a green, clean and safe digital world.</description>
+    </item>
     
     <item>
       <title>WEEK 1 REFLECTION</title>
