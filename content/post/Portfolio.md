@@ -4,8 +4,6 @@ date: 2019-03-04T10:00:48+11:00
 draft: false
 ---
 
-# Portfolio
-
 ### Introduction
 My name is Junwei Liang, a 3rd year student in Bachelor of Engineering (Software Engineering). I am so lucky that I enrolled in the summer studio. In Cyber Security studio, all colleagues are friendly and energetic. Because of I was almost start from zero in Cyber Security, and everyone in the studio helped me a lot on both communication and technical problem solving. So that, I would like to recommend that the Cyber Security summer studio is definitely one of the worthiest elective subjects in UTS. <br>
 
