@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-date: 2019-03-4T010:00:48+11:00
+date: 2019-03-04T10:00:48+11:00
 draft: false
 ---
 
@@ -42,7 +42,7 @@ There were so many identified problems to walkthrough in 4 weeks. At the beginni
 Another example, when I did Mr.Robot on Tryhackme website. Its IP address direct to a WordPress based website which can be easily scanned by WPScan. To identify website vulnerabilities by : ~$ sudo wpscan - -url ‘url’ - -enumrate 
 
 ![Pic3](/P-Nmap.png)
-
+<br><br>
 ### SLO 3: Apply technical skills to develop, model and/or evaluate design
 By doing the HTB Curling, it did need a comprehensive research to walkthrough. 
 1.Recon Stage - Using Nmap to search for port scanning; Using dirb to search for hidden web directory. 
@@ -55,16 +55,21 @@ For this part, I highly recommend the resource:
 (Link provid at the end of this portfolio)
 ![Pic4](/P-CTFweb.png)
 
-
+<br>
 ### SLO 4: Demonstrate effective collaboration and communication skills
 Reviewing passed 4 weeks, there is a lot of presentations I did, also free-for-all talking every morning, stand ups to discuss the milestones, challenges, and what roadblocks are encountered. The picture below is one record of Free-For-All notes.
+
 ![Pic5](/P-freeforall.png)
 
+<br>
 
 Teams online chatting helped me to solidify my understanding of key concepts and increased my confidence in demonstrating a practical attack to an audience. Part of online chatting evidence below: 
 ![Pic6](/P-GRP1.png)
+<br>
 ![Pic7](/P-GRP2.png)
+<br>
 ![Pic8](/P-GRP3.png)
+<br>
 Our team Bare Minimum Bandits did very well on effective collaboration that every group task like presentation, we acted as a scrum team that had a well-organized task distribution and everyone did efforts to achieve the same goal. Sometimes I lost the topic, Cowan and Chris are great mates and repeat the confusing part. Furthermore, me and Cowan shared our reflection website so that teammates can view and learn something new through visiting websites.
 
 ### SOL 5: Conduct critical self and peer review and performance evaluation
@@ -75,7 +80,9 @@ From week 1 to week 4, I had a significant improvement in offensive security. As
 Special thank you to Darshil Shah, who leaded me step-by-step to walkthrough the darkest time. Also thank you to Larry Jason, Cowan, Frank, Andy, Christopher and all other mates in Cyber Security who patiently and positively helped me a lot. Best wishes! 
 
 
-References: 
-_https://pentesterlab.com/exercises/web_for_pentester/course_
+### References: 
+
+https://pentesterlab.com/exercises/web_for_pentester/course
+<br>
 _https://bitvijays.github.io/LFC-VulnerableMachines.html#rabbit-holes_
 

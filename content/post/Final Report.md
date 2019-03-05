@@ -6,6 +6,6 @@ draft: false
 
 # Report attach below
 
-Link:<https://github.com/SuperLionnn/Junwei-s-Website/blob/master/content/post/file/Cyber%20Security%20Report-protected.pdf>
+Link:<https://github.com/SuperLionnn/Junwei-s-Website/blob/master/content/post/file/Cy%20Report-protected.pdf>
 
 Password: blank1024
