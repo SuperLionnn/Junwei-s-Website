@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Junwei&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Mar 2019 22:08:48 +1100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2019 10:00:48 +1100</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Portfolio</title>
+      <link>/post/portfolio/</link>
+      <pubDate>Mon, 04 Mar 2019 10:00:48 +1100</pubDate>
+      
+      <guid>/post/portfolio/</guid>
+      <description>Introduction My name is Junwei Liang, a 3rd year student in Bachelor of Engineering (Software Engineering). I am so lucky that I enrolled in the summer studio. In Cyber Security studio, all colleagues are friendly and energetic. Because of I was almost start from zero in Cyber Security, and everyone in the studio helped me a lot on both communication and technical problem solving. So that, I would like to recommend that the Cyber Security summer studio is definitely one of the worthiest elective subjects in UTS.</description>
+    </item>
     
     <item>
       <title>WEEK 4 REFLECTION</title>
@@ -17,9 +26,19 @@
       <pubDate>Sat, 02 Mar 2019 22:08:48 +1100</pubDate>
       
       <guid>/post/week4-reflection/</guid>
-      <description>WEEK 4 On Monday, Reverse Engineering and Binary Exploitation 0x00
-Ruben Reverse Engineering
+      <description>WEEK 4 On Monday, a industry professional expert &amp;lsquo;Ruben&amp;rsquo; that introduced us to the world of reverse engineering. [Reverse Engineering and Binary Exploitation 0x00]()
+Reverse Engineering
 Reverse Engineering is the skill of figuring out what a black box is doing. This includes being able to figure out what a set of assembly instructions means. This doesn’t mean you have to understand every single instruction. With enough practice you’ll start recognising structures pretty quickly.</description>
+    </item>
+    
+    <item>
+      <title>Report - HackTheBox</title>
+      <link>/post/final-report/</link>
+      <pubDate>Sat, 02 Mar 2019 12:08:48 +1100</pubDate>
+      
+      <guid>/post/final-report/</guid>
+      <description>Report attach below Link:https://github.com/SuperLionnn/Junwei-s-Website/blob/master/content/post/file/Cy%20Report-protected.pdf
+Password: blank1024</description>
     </item>
     
     <item>
@@ -46,16 +65,6 @@ try input “”
 XSRF Protection
 Then try https://www.hackthebox.eu/invite/id Code 404 error Try to find some in robots.txt but there is nothing Injection will be blocked https://www.hackthebox.eu/invite/%3CsCript%3Ealert(1);%3C/scRiPt%3E
 Look at the source code /inviteapi.min.js. file looks like the key point to get the invite code.</description>
-    </item>
-    
-    <item>
-      <title>WEEK2 REFLECTION</title>
-      <link>/post/week2-reflection/</link>
-      <pubDate>Sun, 17 Feb 2019 22:19:12 +1100</pubDate>
-      
-      <guid>/post/week2-reflection/</guid>
-      <description>Week 2 Reflection In week 2, I learnt more stuff about Web Application Security.
-On Friday, everyone did a 3-minute-presentation and many of us hadn&amp;rsquo;t mentioned the problem solution though, and I talked about SQL Injection is one way of injection attack which is regarded as the most dangerous application security risk. Because of almost any source of data can be an injection vector, environment variables, parameters, external and internal web services, and all types of users.</description>
     </item>
     
     <item>

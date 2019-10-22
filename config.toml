@@ -44,9 +44,13 @@ disqusShortname = "yourdiscussshortname"
 
 # Menu links
 [[menu.main]]
-    name = "Weekly Reflection"
+    name = "Cyber Security Weekly Practice"
     weight = 1
     url  = "/post/"
 [[menu.main]]
-    name = "About"
+    name = "React Native"
     weight = 2
+    url	= "/Dev/"
+[[menu.main]]
+    name = "About"
+    weight = 3
